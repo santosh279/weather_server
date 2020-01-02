@@ -1,0 +1,16 @@
+{
+  "port": "3001",
+  "mongo": {
+    "host": "localhost",
+    "port": "27017",
+    "database": "weatherprod",
+    "secret": "weatherprod"
+  },
+  "yahoo": {
+    "consumer_key": "dj0yJmk9YzlXMlhpZVJjSDdPJmQ9WVdrOVZuRkRWVEV5TjJzbWNHbzlNQS0tJnM9Y29uc3VtZXJzZWNyZXQmc3Y9MCZ4PWFl",
+    "consumer_secret": "9388a623ac5bc862911b14214486bc6a6354753e",
+    "api_id": "VqCU127k",
+    "weather_url": "https://weather-ydn-yql.media.yahoo.com/forecastrss"
+  },
+  "environment": "production"
+}
